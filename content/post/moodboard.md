@@ -23,6 +23,6 @@ Moodboard jsem vytvořila na stránce gomoodboard.com. Obsahuje textové prvky �
 
 Vytvořila jsem moodboard, který se skládá z obrázků, které bych ráda vložila na web, a krátkých textů o tom, jak bych si web představovala. Vložila jsem do moodboardu obrázky týkající se přímo rozšířené reality - videohry, jako například Pokemon Go, ať už na mobilu, tabletu či počítači. Dále jsem tam vložila obrázky brýlí pro rozšířenou realitu. Dva z obrázků se týkají seriálu Black Mirror, konkrétně epizody Playtest, která se zabývá rozšířenou realitou. Této epizodě bychom se chtěli v naší práci věnovat. Několik obrázků, které obsahuje moje moodboard, se týkají knižní série Nebe od spisovatelky Veronicy Rossi, jejíž děj se odehrává v postapokalyptické budoucnosti, v níž hraje rozšířená realita, alespoň pro část populace, významnou roli. Této sérii se na našem webu také chceme krátce věnovat.
 
-<img src="https://is.muni.cz/www/488079/moodboard.png" alt="moodboard3">
+<img src="https://is.muni.cz/www/488373/56917840_2626824053998881_8286809131826806784_n.png" alt="moodboard3">
 
 
