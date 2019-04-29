@@ -1,7 +1,6 @@
 ---
 title: Úvod
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-139159970-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
