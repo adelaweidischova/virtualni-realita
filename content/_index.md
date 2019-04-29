@@ -1,6 +1,9 @@
 ---
 title: Úvod
+---
 
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-139159970-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -9,7 +12,7 @@ title: Úvod
 
   gtag('config', 'UA-139159970-1');
 </script>
----
+</head>
 
 Mojím cieľom je oboznámiť ľudí s veľkými výhodami tejto technológie, ktorá skôr či neskôr bude súčasťou našich životov.
 
