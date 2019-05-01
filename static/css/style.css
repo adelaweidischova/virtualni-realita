@@ -1,32 +1,24 @@
 .wrapper {
-  margin: 30px auto;
+  margin: 50px auto;
   max-width: 800px;
   padding: 20px;
 }
 
-header {
-  padding: 30px 0 0;
+.header {
+  padding: 30px 0;
   border-bottom: solid;
 }
 
-footer {
-  border-top: solid;
-  clear: both;
-}
-
-.page {
+.content {
   float: right;
-  width: 70%;
+  width: 75%;
   border-left: solid;
-  padding-left: 1.5em;
-  padding-bottom: 2em;
-  min-height: 400px;
+  padding-left: 30px;
 }
 
-aside {
+nav {
   float: left;
-  width: 25%;
-  margin-top: 1em;
+  width: 15%;
 }
 
 nav ul {
@@ -34,10 +26,20 @@ nav ul {
   padding: 0;
 }
 
-nav li {
-  margin-bottom: 1em;
+body {
+  background-color: white;
 }
 
-nav .active {
-  font-weight: bold;
+h1 {
+  color: darkorange;
+  text-align: center;
+}
+
+p {
+  font-family: helvetica;
+  font-size: 20px;
+}
+
+body {
+  background-image: url("zatiaľ biela farba");
 }
