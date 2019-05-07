@@ -10,7 +10,7 @@ menu:
 	
 	1. Cílová skupina:
 	
-	    Jako cílovou skupinu jsme si vybrali lidi, kteří se IT věnují málo nebo vůbec, a to ve věku od 15 do 35 let. Ve středoškolském věku začínají lidé více pracovat s různymi IT nástroji a většina začíná s programováním, proto je důležité aby se o AR dozvědeli víc a mohli tak přispět svými nápady a “přebrat stafetu” v IT. Druhá skupina lidí ve věku 35 let a více jsou převažne skeptici, který nemají rádi změny a ve všem vidí většinou nevýhody. Tohle se týka též IT profesionálů, který neradi přecházejí na nové technologie a mají radši starší a ověřené veci např. hardvér, programovací jazyky a pod. Velice rádi bychom proto představili lidem obrovské výhody, které rozšířená realita přináší.
+	    Jako cílovou skupinu jsme si vybrali lidi, kteří se IT věnují málo nebo vůbec, a to ve věku od 15 do 35 let. Ve středoškolském věku začínají lidé více pracovat s různými IT nástroji a většina začíná s programováním, proto je důležité, aby se o AR dozvěděli víc a mohli tak přispět svými nápady a “přebrat štafetu” v IT. Druhá skupina lidí ve věku 35 let a více jsou převážně skeptici, kteří nemají rádi změny a ve všem vidí většinou nevýhody. Tohle se týká též IT profesionálů, kteří neradi přecházejí na nové technologie a mají radši starší a ověřené věci, např. hardvér, programovací jazyky a pod. Velice rádi bychom proto představili lidem obrovské výhody, které rozšířená realita přináší.
 	
 	2. Název webu: 
 	
@@ -70,7 +70,7 @@ menu:
 	
 	8. Strategie zveřejnování obsahu
 	
-	Nejdříve bychom udělali nějaký základní úvod do tématu Virtuální realita tzn. uvedení definice, krátká historie, výhody, nevýhody apod. Dále bychom se už zaměřili na konkrétnější příklady využití VR. Dále bychom zmínili, jakým způsobem může VR ovlivňovat naše životy. Určitě by také stály za zmínku nějaké výhledy do budoucna VR. Rádi bychom také chtěli zmínit seriál Black Mirror, konkrétně díl Playtest, kde se použití VR objevilo.
+	Nejdříve bychom udělali nějaký základní úvod do tématu Rozšířená realita, tzn. uvedení definice, krátká historie, výhody, nevýhody apod. Dále bychom se už zaměřili na konkrétnější příklady využití AR. Dále bychom zmínili, jakým způsobem může AR ovlivňovat naše životy. Určitě by také stály za zmínku nějaké výhledy do budoucna AR. Rádi bychom také chtěli zmínit seriál Black Mirror, konkrétně díl Playtest, kde se použití AR objevilo.
 
 
 [Hugo]: https://gohugo.io
