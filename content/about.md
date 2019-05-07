@@ -10,7 +10,7 @@ menu:
 	
 	1. Cílová skupina:
 	
-	    Jako cílovou skupinu jsme si vybrali lidi, kteří se IT věnují málo nebo vůbec, a to ve věku od 15 do 35 let. Ve středoškolském věku začínají lidé více pracovat s různými IT nástroji a většina začíná s programováním, proto je důležité, aby se o AR dozvěděli víc a mohli tak přispět svými nápady a “přebrat štafetu” v IT. Druhá skupina lidí ve věku 35 let a více jsou převážně skeptici, kteří nemají rádi změny a ve všem vidí většinou nevýhody. Tohle se týká též IT profesionálů, kteří neradi přecházejí na nové technologie a mají radši starší a ověřené věci, např. hardvér, programovací jazyky a pod. Velice rádi bychom proto představili lidem obrovské výhody, které rozšířená realita přináší.
+	    Jako cílovou skupinu jsme si vybrali lidi, kteří se IT věnují málo nebo vůbec, a to ve věku od 15 do 35 let. Ve středoškolském věku začínají lidé více pracovat s různými IT nástroji a většina začíná s programováním, proto je důležité, aby se o AR dozvěděli víc a mohli tak přispět svými nápady a “přebrat štafetu” v IT. Druhá skupina lidí ve věku 35 let a více jsou převážně skeptici, kteří nemají rádi změny a ve všem vidí většinou nevýhody. Tohle se týká též IT profesionálů, kteří neradi přecházejí na nové technologie a mají radši starší a ověřené věci, např. hardvér, programovací jazyky apod. Velice rádi bychom proto představili lidem obrovské výhody, které rozšířená realita přináší.
 	
 	2. Název webu: 
 	
@@ -61,7 +61,7 @@ menu:
 	3.	popíšeme výhody a nevýhody rozšířené reality
 	4.	krátce představíme epizodu Playtest seriálu Black Mirror, která se zabývá rozšířenou realitou
 	5.	krátce představíme beletristickou trilogii Nebe od autorky Veronicy Rossi, která vypráví o populaci, jež značně využívá rozšířené reality 
-	6.	popíšeme rozdíli medzi virtuální a rozšířenou realitou
+	6.	popíšeme rozdíly mezi virtuální a rozšířenou realitou
 	7.	popíšeme, jakým způsobem rozšířená realita ovlivňuje naše životy
 	8.	budoucnost rozšířené reality – čeho se možná dočkáme?
 	9.	využití rozšířené reality v různých oblastech 
