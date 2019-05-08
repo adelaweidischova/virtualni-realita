@@ -1,4 +1,4 @@
-title: Ako rozšírená realita zmení náš každodenný život
+title: Rozšírená realita
 baseURL: https://quizzical-tesla-fb2f40.netlify.com/
 languageCode: cs-cz
 publishDir: public
@@ -14,6 +14,6 @@ menu:
       weight: 20
 
 params:
-  description: Description of my new site.
+  description: Ako rozšírená realita zmení náš každodenný život
   authors: Authors
 
