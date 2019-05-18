@@ -14,4 +14,3 @@ Learn more about Hugo with a [quick start guide][qs] or by exploring its [docume
 [hugoDocs]: https://gohugo.io/documentation/
 [qs]: https://gohugo.io/getting-started/quick-start/
 
-zkouška
