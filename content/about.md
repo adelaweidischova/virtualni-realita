@@ -1,5 +1,6 @@
 ---
 title: O projektu
+date:  2019-04-01
 ---
 
 1. Cílová skupina:
