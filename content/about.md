@@ -4,8 +4,6 @@ menu:
   main:
     weight: 30
 ---
-
-<<<<<<< HEAD
 	
 	
 	1. Cílová skupina:
@@ -72,9 +70,4 @@ menu:
 	
 	Nejdříve bychom udělali nějaký základní úvod do tématu Rozšířená realita, tzn. uvedení definice, krátká historie, výhody, nevýhody apod. Dále bychom se už zaměřili na konkrétnější příklady využití AR. Dále bychom zmínili, jakým způsobem může AR ovlivňovat naše životy. Určitě by také stály za zmínku nějaké výhledy do budoucna AR. Rádi bychom také chtěli zmínit seriál Black Mirror, konkrétně díl Playtest, kde se použití AR objevilo.
 
-
-[Hugo]: https://gohugo.io
-[VIKBA07]: https://is.muni.cz/predmet/phil/VIKBA07
-[hugoDocs]: https://gohugo.io/documentation/
-[qs]: https://gohugo.io/getting-started/quick-start/
 
