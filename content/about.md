@@ -1,15 +1,12 @@
 ---
 title: O projektu
-date:  2019-04-01
 ---
 
 1. Cílová skupina:
 
-    Jako cílovou skupinu jsme si vybrali lidi, kteří se IT věnují málo nebo vůbec, a to ve věku od 15 do 35 let. Ve středoškolském věku začínají lidé více pracovat s různými IT nástroji a většina začíná s programováním, proto je důležité, aby se o AR dozvěděli víc a mohli tak přispět svými nápady a “přebrat štafetu” v IT. Druhá skupina lidí ve věku 35 let a více jsou převážně skeptici, kteří nemají rádi změny a ve všem vidí většinou nevýhody. Tohle se týká též IT profesionálů, kteří neradi přecházejí na nové technologie a mají radši starší a ověřené věci, např. hardvér, programovací jazyky apod. Velice rádi bychom proto představili lidem obrovské výhody, které rozšířená realita přináší.
+Jako cílovou skupinu jsme si vybrali lidi, kteří se IT věnují málo nebo vůbec, a to ve věku od 15 do 35 let. Ve středoškolském věku začínají lidé více pracovat s různými IT nástroji a většina začíná s programováním, proto je důležité, aby se o AR dozvěděli víc a mohli tak přispět svými nápady a “přebrat štafetu” v IT. Druhá skupina lidí ve věku 35 let a více jsou převážně skeptici, kteří nemají rádi změny a ve všem vidí většinou nevýhody. Tohle se týká též IT profesionálů, kteří neradi přecházejí na nové technologie a mají radši starší a ověřené věci, např. hardvér, programovací jazyky apod. Velice rádi bychom proto představili lidem obrovské výhody, které rozšířená realita přináší.
 
-2. Název webu: 
-
-Ako rozšírená realita zmení náš každodenný život
+2. Název webu: Ako rozšírená realita zmení náš každodenný život
 
 3. Webové zdroje
 
