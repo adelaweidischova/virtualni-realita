@@ -1,8 +1,5 @@
 ---
 title: O projektu
-menu:
-  main:
-    weight: 30
 ---
 
 1. Cílová skupina:
